@@ -1,4 +1,7 @@
-# CRM (UNDER CONSTRACTION)
+# CRM (closed)
+
+### Project closed due to transition to a new project https://github.com/Rogan73/crm_nuxt3_2
+
 ## Nuxt 3, Type script, Pinia, Tailwind, WebSocket, DB SQLite
 
 
